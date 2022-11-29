@@ -17,7 +17,8 @@ from sklearn.tree import DecisionTreeClassifier
 
 def main():
 	st.set_option('deprecation.showPyplotGlobalUse', False)
-	st.title('Visualizador genérico de datos')
+	st.title('📈Seminario de visualización📈')
+	st.text('👀Visualizador genérico de datos👀')
 	st.text('🚀Construído con Streamlit🚀')
 	activities = ["Análisis exploratorio de datos","Gráfico"]
 
